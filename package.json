@@ -1,0 +1,14 @@
+{
+  "name": "30-days-typescript",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "https://github.com/henryckh/30-days-typescript.git",
+  "author": "Henry Chan <henry2014ips@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.4.3"
+  }
+}

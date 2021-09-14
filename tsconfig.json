@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+      "lib": [
+          "es2017"
+      ],
+      "target": "es2017",
+      "types": [
+        "@types/node"
+      ],
+      "typeRoots": [
+      ],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "dist",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": false,
+      "removeComments": true,
+      "resolveJsonModule": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "strictPropertyInitialization": false
+  },
+  "include": [
+      "src/**/*.ts"
+  ],
+  "exclude": [
+      "node_modules",
+  ]
+}
