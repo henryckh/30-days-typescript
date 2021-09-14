@@ -5,7 +5,10 @@
   "repository": "https://github.com/henryckh/30-days-typescript.git",
   "author": "Henry Chan <henry2014ips@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "@types/chai": "^4.2.21",
     "@types/mocha": "^9.0.0",
