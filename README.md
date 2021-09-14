@@ -1,6 +1,6 @@
 # 30-days-typescript
 
-This is very beginning of the Typescript 30 days challenge.
+This is very beginning of the TypesSript 30 days challenge.
 
 ## Install 
 
