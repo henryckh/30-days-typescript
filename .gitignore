@@ -1,10 +1,6 @@
 # Dependency directory
 node_modules
 
-# Editors
-.idea
-*.iml
-
 # misc
 .env
 .env.local
